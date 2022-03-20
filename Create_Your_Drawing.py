@@ -3,24 +3,24 @@ import time
 import sys
 
 
-simone=turtle.Turtle()
+turtle=turtle.Turtle()
 
 class Comandi:
     
     def forward():
-        simone.forward(misura)
+        turtle.forward(misura)
 
     def back():
-        simone.back(misura)
+        turtle.back(misura)
 
     def right():
-        simone.right(misura)
+        turtle.right(misura)
 
     def left():
-        simone.left(misura)
+        turtle.left(misura)
 
     def speed():
-        simone.speed(misura)
+        turtle.speed(misura)
 try:
     game_name="Create Your Drawing!\n"
     game_name_color=sys.stdout.shell

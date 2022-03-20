@@ -1,0 +1,22 @@
+--TURTLE MODULE
+
+--import TIME MODULE to SET FAKE DOWNLOAD or UPLOAD System (wait system....converted in.....log-in,download,creation,cutting,copying,ecc.. tool)
+
+--OPTIONAL = import SYS to change color to OUTPUT TEXT
+
+--input (str input) COMMANDS (forward,back,right,left,speed,ecc...)
+
+--second_input(int input) to set (pixel,grande and velocity) = (forward and back = pixel /// right and left = grade /// speed = velocity)
+
+--create DEF (function) to RUN first TURLE and after INPUT COMMANDS.
+
+--set COMMANDS with IF condition
+
+--APP CREDITS by a PRINT (or with SYS) ("App Developed by CapBeluga")  (#Credits to CaptainBeluga)
+
+--Application Name : Create Your Drawing!
+
+--package and python name = create_your_Drawing
+--developer = CapBeluga
+
+--platform = Windows and macOS Users only!

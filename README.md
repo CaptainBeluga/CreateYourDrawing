@@ -1,8 +1,8 @@
 # Create your Drawing
-You can use this program to create lots of figures
+You can use this program to create lots of figures.
 
 
-I wrote it when i was 12 yr old.
+I wrote it when i was 12 yr old (almost 13).
 
 
 # Requirements
@@ -19,7 +19,7 @@ You can edit,copy or use this system as you want.
 
     GUIDE:
 
-    1. Select the functionality you want
+    1. Select the functionality you want.
 
     2. Select where the arrow must to go.
     
